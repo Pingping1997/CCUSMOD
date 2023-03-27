@@ -1,5 +1,6 @@
 # CCUSMOD - A framework for CCUS system optimization and life cycle assessment
 
+![CCUSMOD](https://img.shields.io/badge/CCUSMOD-v1.0-blue)
 The CCUSMOD framework is a flexible framework for the optimization and life cycle assessment (LCA) Carbon Capture, Utilization and Storage (CCUS) systems.
 Copyright 2023 Pingping Wang
 
