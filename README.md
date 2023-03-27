@@ -4,7 +4,7 @@ Lecture Notebook 2023
 
 Copyright 2023 Pingping Wang
 
-Licensed under the Apache License, Version 2.0 (the "License");
+Licensed under the Apache License, Version 2.0 and GNU GPL v3 as below:
 ### Apache 2.0 License
 [![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  
 `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`
